@@ -1,0 +1,17 @@
+.body {
+    background-image: url("https://s3.envato.com/files/336604982/DSC02341.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#hit_the_goal {
+    font-weight: bolder;
+    color:red;
+    background-color: silver;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size:40px;
+}
+#myCanvas {
+    border-style:ridge;
+    border-radius: 10px;
+    background-color:green;
+}
